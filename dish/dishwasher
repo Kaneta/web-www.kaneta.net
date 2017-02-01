@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html lang="ja">
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=Shift_JIS">
+		<meta name="keywords" content="JW-10C2, JW-10C3, 食器洗い機, 工事, 光熱費">
+		<meta name="description" content="食器洗い機の工事法や光熱費の報告。">
+		<style type="text/css" media="screen"><!--
+body { text-align: center }
+h2      { color: #039; font-weight: lighter; font-size: large; margin: 50px 100px; padding: 5px; border: solid 1px #039 }
+h1 { margin-top: 50px; margin-bottom: 50px }
+a  { color: blue; text-decoration: none }
+--></style>
+		<title>食器洗い機を自分で工事＆光熱費</title>
+	</head>
+
+	<body>
+		<h1><img src="mydish.gif" alt="" height="99" width="684" border="0"></h1>
+		<p>2000年6月からホシザキの食器洗い機（JW-10C2）を 使っています。<br>
+			気になる設置法や設置後のランニングコストです。参考になさってください。</p>
+		<h2><a id="link" href="#link">役立つリンク</a></h2>
+		<p><a href="http://www.google.co.jp/search?q=JW-10C3%E3%80%80%E7%89%B9%E6%80%A5%E3%81%99%E3%81%99%E3%81%8E&&hl=ja&btnI">ホシザキJW-10C3特急すすぎについて<br>
+			</a>JW-10C3と特急すすぎでI'm Feeling Lucky </p>
+		<p>『<a href="http://www003.upp.so-net.ne.jp/bora2/shoku/shokusen.htm">食器洗い機考</a>』むかりんさんのページです。<br>
+			ここをみて食器洗い機を買うことにしました。</p>
+		<h2><a id="main" href="#main">自分で食器洗い機を取り付ける方法</a></h2>
+		<p><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" height="400" width="550">
+				<param name="play" value="false">
+				<param name="quality" value="high">
+				<param name="movie" value="dish.swf">
+				<embed height="400" src="dish.swf" type="application/x-shockwave-flash" width="550" play="false" quality="high" movie="./dish.swf"> 
+			</object></p>
+		<h2><a id="howmuch" href="#howmuch">初期費用の総額</a></h2>
+		<table width="550" border="1" cellspacing="0" cellpadding="10" bgcolor="#ccffff">
+			<tr>
+				<td>食器洗い機</td>
+				<td>ホシザキ　JW-10C2</td>
+				<td>
+					<div align="right">
+						\75,600</div>
+				</td>
+			</tr>
+			<tr>
+				<td>分岐水栓</td>
+				<td>ホームセンターにある普通のやつ</td>
+				<td>
+					<div align="right">
+						\2,500</div>
+				</td>
+			</tr>
+			<tr>
+				<td>食器洗い機をのせる台</td>
+				<td>木製の組み立て家具の棚板</td>
+				<td>
+					<div align="right">
+						\2,000</div>
+				</td>
+			</tr>
+			<tr>
+				<td>クリアラッカー</td>
+				<td>上記棚板の防水のため</td>
+				<td>
+					<div align="right">
+						\150</div>
+				</td>
+			</tr>
+			<tr>
+				<td>総額</td>
+				<td><br>
+				</td>
+				<td>
+					<div align="right">
+						\80,250</div>
+				</td>
+			</tr>
+		</table>
+		<p>木製の棚板は約２年半たった今でも腐りもせずうまいこと働いています。</p>
+		<p></p>
+		<h2><a id="cost" href="#cost">食器洗い機導入前後の光熱費推移</a></h2>
+		<p>簡単にまとめると、、、</p>
+		<ul>
+			<li>ガス代は季節に主に左右され夏低くて冬に高くなる。
+			<li>水道代は食器洗い機を導入した後に使用量が減少。
+			<li>電気代は季節や食器洗い機導入にあまり関係ない。
+		</ul>
+		<p>ということになります。</p>
+		<p><img src="dish.gif" alt="食器洗い機導入前後の光熱費推移グラフ" height="311" width="649"></p>
+		<p></p>
+		<p>Copyright(c)2000-2003 Kaneta</p>
+	</body>
+
+</html>
